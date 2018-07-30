@@ -4,15 +4,6 @@
     "locale_code": "en",
     "continent_code": "EU",
     "continent_name": "Europe",
-    "country_iso_code": "CY",
-    "country_name": "Cyprus",
-    "subdivision_1_iso_code": "02",
-    "subdivision_1_name": "Limassol",
-    "subdivision_2_iso_code": "",
-    "subdivision_2_name": "",
-    "city_name": "Souni",
-    "metro_code": "",
-    "time_zone": "Asia/Nicosia",
-    "is_in_european_union": "1"
+    "country_iso_code": "CY"
   }
   ]
